@@ -1,0 +1,10 @@
+C:\Users\sanaypc\source\repos\v6k1\v6k1\bin\Debug\v6k1.exe.config
+C:\Users\sanaypc\source\repos\v6k1\v6k1\bin\Debug\v6k1.exe
+C:\Users\sanaypc\source\repos\v6k1\v6k1\bin\Debug\v6k1.pdb
+C:\Users\sanaypc\source\repos\v6k1\v6k1\obj\Debug\v6k1.csprojAssemblyReference.cache
+C:\Users\sanaypc\source\repos\v6k1\v6k1\obj\Debug\v6k1.Form1.resources
+C:\Users\sanaypc\source\repos\v6k1\v6k1\obj\Debug\v6k1.Properties.Resources.resources
+C:\Users\sanaypc\source\repos\v6k1\v6k1\obj\Debug\v6k1.csproj.GenerateResource.cache
+C:\Users\sanaypc\source\repos\v6k1\v6k1\obj\Debug\v6k1.csproj.CoreCompileInputs.cache
+C:\Users\sanaypc\source\repos\v6k1\v6k1\obj\Debug\v6k1.exe
+C:\Users\sanaypc\source\repos\v6k1\v6k1\obj\Debug\v6k1.pdb
